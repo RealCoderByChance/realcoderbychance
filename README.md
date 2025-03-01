@@ -6,10 +6,6 @@ I've been building Android apps for 8.5+ years—yep, that long! Along the way, 
 
 ---
 
-<h3>💬 Wanna chat tech or just say hi? Hit me up!</h3>
-<p> <a href="https://x.com/rahulsinghandro" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/rahul-singh-28261a118/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://dev.to/coderbychance" target="_blank"><img alt="Dev.to" src="https://img.shields.io/badge/Dev.to-%2312100E.svg?&style=for-the-badge&logoColor=white" /></a><a href="http://coderbychance.com" target="_blank"><img alt="CoderByChance.com" src="https://img.shields.io/badge/CoderByChance.com-%A4C6390E.svg?&style=for-the-badge&logoColor=white" /></a>
-</p>
-
 ### 🧰 Languages and Tools
 
 <img align="left" alt="Android" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/android/android-plain.svg"/>
@@ -22,6 +18,9 @@ I've been building Android apps for 8.5+ years—yep, that long! Along the way, 
 <img align="left" alt="Flutter" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/flutter/flutter-plain.svg"/>
 <img align="left" alt="Dart" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/dart/dart-plain.svg"/>
 <img align="left" alt="XML" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/xml/xml-plain.svg"/>
-
 <br />
+
+<h3>💬 Wanna chat tech or just say hi? Hit me up!</h3>
+<p> <a href="https://x.com/rahulsinghandro" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/rahul-singh-28261a118/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://dev.to/coderbychance" target="_blank"><img alt="Dev.to" src="https://img.shields.io/badge/Dev.to-%2312100E.svg?&style=for-the-badge&logoColor=white" /></a><a href="http://coderbychance.com" target="_blank"><img alt="CoderByChance.com" src="https://img.shields.io/badge/CoderByChance.com-%A4C6390E.svg?&style=for-the-badge&logoColor=white" /></a>
+</p>
 
