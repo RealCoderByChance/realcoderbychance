@@ -1,6 +1,6 @@
 ## CoderByChance 👋
 
-**`Android Developer`**
+**`🚀 Android Developer | Aspiring Game Developer | Tech Enthusiast`**
 
 <!--
 **RealCoderByChance/realcoderbychance** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
