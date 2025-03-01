@@ -7,9 +7,11 @@ I've been building Android apps for 8.5+ years—yep, that long! Along the way, 
 </br>
 <!-- Social icons section -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/rahul-singh-28261a118/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
+  <a href="https://www.linkedin.com/in/rahul-singh-28261a118/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://x.com/rahulsinghandro"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/AixJgnm.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://dev.to/coderbychance"><img width="32px" alt="Dev.to" title="DenverCoder1 Dev.to" src="https://i.imgur.com/mVm29vK.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 
 <!--   &#8287;&#8287;&#8287;&#8287;&#8287;
