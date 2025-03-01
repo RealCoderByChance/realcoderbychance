@@ -29,3 +29,8 @@ I've been building Android apps for 8.5+ years—yep, that long! Along the way, 
 <p> <a href="https://x.com/rahulsinghandro" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/rahul-singh-28261a118/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://dev.to/coderbychance" target="_blank"><img alt="Dev.to" src="https://img.shields.io/badge/Dev.to-%2312100E.svg?&style=for-the-badge&logoColor=white" /></a><a href="http://coderbychance.com" target="_blank"><img alt="CoderByChance.com" src="https://img.shields.io/badge/CoderByChance.com-%A4C6390E.svg?&style=for-the-badge&logoColor=white" /></a>
 </p>
 
+
+------------
+
+<p align="center"><img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img alt="Stars" src="https://img.shields.io/github/stars/thmsgbrt/thmsgbrt?style=flat-square&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/thmsgbrt?style=flat-square&labelColor=343b41"/></p>
+
