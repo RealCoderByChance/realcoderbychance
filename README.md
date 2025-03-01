@@ -18,6 +18,7 @@ I've been building Android apps for 8.5+ years—yep, that long! Along the way, 
 <img align="left" alt="Flutter" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/flutter/flutter-plain.svg"/>
 <img align="left" alt="Dart" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/dart/dart-plain.svg"/>
 <img align="left" alt="XML" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/xml/xml-plain.svg"/>
+<img align="left" alt="Unity" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/unity/unity-original.svg"/>
 <br/>
 <br/>
 <br/>
