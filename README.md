@@ -32,5 +32,7 @@ I've been building Android apps for 8.5+ years—yep, that long! Along the way, 
 
 ------------
 
-<p align="center"><img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img alt="Stars" src="https://img.shields.io/github/stars/thmsgbrt/thmsgbrt?style=flat-square&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/thmsgbrt?style=flat-square&labelColor=343b41"/></p>
+------------
+<p align="center"></br>Last refresh: Saturday, 1 March, 16:01 CET<br /></p>
+
 
