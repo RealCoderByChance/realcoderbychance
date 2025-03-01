@@ -13,6 +13,15 @@ I've been building Android apps for 8.5+ years—yep, that long! Along the way, 
 ### 🧰 Languages and Tools
 
 <img align="left" alt="Android" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/android/android-plain.svg"/>
+<img align="left" alt="Gradle" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/gradle/gradle-original.svg"/>
+<img align="left" alt="Github" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/github/github-original.svg"/>
+<img align="left" alt="Firebase" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/firebase/firebase-plain.svg"/>
+<img align="left" alt="Postman" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/postman/postman-plain.svg"/>
+<img align="left" alt="Kotlin" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/kotlin/kotlin-plain.svg"/>
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/java/java-plain.svg"/>
+<img align="left" alt="Flutter" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/flutter/flutter-plain.svg"/>
+<img align="left" alt="Dart" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/dart/dart-plain.svg"/>
+<img align="left" alt="XML" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/xml/xml-plain.svg"/>
 
 <br />
 
