@@ -25,8 +25,7 @@ I've been building Android apps for 8.5+ years—yep, that long! Along the way, 
 <br/>
 
 
-<h3>💬 Some big projects I've worked on!</h3>
-### :sparkles: [My followers](src/getTopFollowers.py)
+<h3>:sparkles: Some big projects I've worked on!</h3>
 
 <!--START_SECTION:top-followers-->
 <table>
