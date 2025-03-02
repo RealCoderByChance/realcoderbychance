@@ -21,11 +21,7 @@ I've been building Android apps for 8.5+ years—yep, that long! Along the way, 
 <img align="left" alt="Unity" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/unity/unity-original.svg"/>
 <br/>
 <br/>
-<br/>
-<br/>
-
-
-<h3>:sparkles: Some big projects I've worked on!</h3>
+<h3>:sparkles: Some cool projects I've worked on!</h3>
 
 <!--START_SECTION:top-followers-->
 <table>
@@ -62,6 +58,10 @@ I've been building Android apps for 8.5+ years—yep, that long! Along the way, 
   <tr>
   </tr>
   </table>
+
+  
+<br/>
+<br/>
 
 
 <h3>💬 Wanna chat tech or just say hi? Hit me up!</h3>
