@@ -56,7 +56,7 @@ I've been building Android apps for 8.5+ years—yep, that long! Along the way, 
         <img src="https://github.com/RealCoderByChance/realcoderbychance/blob/main/project_icons/wmgb.webp" width="100px;" alt="wmgb"/>
       </a>
       <br />
-      <a href="https://play.google.com/store/apps/details?id=com.wedmegood.vendor&hl=en_IN">WedMeGood Business</a>
+      <a href="https://play.google.com/store/apps/details?id=com.wedmegood.vendor&hl=en_IN">WedMeGood\nBusiness</a>
     </td>
   </tr>
   <tr>
