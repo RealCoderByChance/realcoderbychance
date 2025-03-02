@@ -32,24 +32,24 @@ I've been building Android apps for 8.5+ years—yep, that long! Along the way, 
   <tr>
     <td align="center">
       <a href="https://play.google.com/store/apps/details?id=in.ndhm.phr&hl=en_IN">
-        <img src="https://github.com/RealCoderByChance/realcoderbychance/blob/main/project_icons/abha.webp" width="100px;" alt="wizardforcel"/>
+        <img src="https://github.com/RealCoderByChance/realcoderbychance/blob/main/project_icons/abha.webp" width="100px;" alt="abha"/>
       </a>
       <br />
       <a href="https://play.google.com/store/apps/details?id=in.ndhm.phr&hl=en_IN">ABHA</a>
     </td>
     <td align="center">
-      <a href="https://github.com/EndlessCheng">
-        <img src="https://avatars2.githubusercontent.com/u/7086966" width="100px;" alt="EndlessCheng"/>
+      <a href="https://play.google.com/store/apps/details?id=com.wedmegood.planner&hl=en_IN">
+        <img src="https://github.com/RealCoderByChance/realcoderbychance/blob/main/project_icons/wmg.webp" width="100px;" alt="WedMeGood"/>
       </a>
       <br />
-      <a href="https://github.com/EndlessCheng">灵茶山艾府 [0x3F]</a>
+      <a href="https://play.google.com/store/apps/details?id=com.wedmegood.planner&hl=en_IN">WedMeGood</a>
     </td>
     <td align="center">
-      <a href="https://github.com/gaocegege">
-        <img src="https://avatars2.githubusercontent.com/u/5100735" width="100px;" alt="gaocegege"/>
+      <a href="https://play.google.com/store/apps/details?id=nic.goi.aarogyasetu&hl=en_IN">
+        <img src="https://github.com/RealCoderByChance/realcoderbychance/blob/main/project_icons/arogyasetu.webp" width="100px;" alt="aarogyasetu"/>
       </a>
       <br />
-      <a href="https://github.com/gaocegege">Ce Gao</a>
+      <a href="https://play.google.com/store/apps/details?id=nic.goi.aarogyasetu&hl=en_IN">Aarogya Setu</a>
     </td>
     <td align="center">
       <a href="https://github.com/zer0yu">
