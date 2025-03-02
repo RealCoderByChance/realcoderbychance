@@ -1,4 +1,4 @@
-## CoderByChance 👋
+## 👋 CoderByChance
 
 **`🚀 Android Developer | Aspiring Game Developer | Tech Enthusiast`**
 
