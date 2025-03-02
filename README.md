@@ -27,11 +27,9 @@ I've been building Android apps for 8.5+ years—yep, that long! Along the way, 
 
 <h3>💬 Some big projects I've worked on!</h3>
 
-## bdougie has <!-- follower-counter -->2365<!-- /follower-counter --> followers
-
 [Wedmegood](https://play.google.com/store/apps/details?id=com.wedmegood.planner&hl=en_IN) | [@Brawrdon](https://github.com/Brawrdon) | [@dayhaysoos](https://github.com/dayhaysoos) | [@ifiokjr](https://github.com/ifiokjr)
 --- | --- | --- | ---
-![WedMeGood](https://avatars.githubusercontent.com/aprilspeight?s=150&v=1) | ![@Brawrdon](https://avatars.githubusercontent.com/Brawrdon?s=150&v=1) | ![@dayhaysoos](https://avatars.githubusercontent.com/dayhaysoos?s=150&v=1) | ![@ifiokjr](https://avatars.githubusercontent.com/ifiokjr?s=150&v=1)
+![WedMeGood](https://github.com/RealCoderByChance/realcoderbychance/blob/main/project_icons/wmg.webp) | ![@Brawrdon](https://avatars.githubusercontent.com/Brawrdon?s=150&v=1) | ![@dayhaysoos](https://avatars.githubusercontent.com/dayhaysoos?s=150&v=1) | ![@ifiokjr](https://avatars.githubusercontent.com/ifiokjr?s=150&v=1)
 
 
 <h3>💬 Wanna chat tech or just say hi? Hit me up!</h3>
